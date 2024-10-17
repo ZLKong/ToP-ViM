@@ -1,0 +1,5 @@
+# ninja log v5
+1	4562	1712865755146152468	/home/yifan/mamba_prune/causal-conv1d/build/temp.linux-x86_64-cpython-39/csrc/causal_conv1d_update.o	977ee78db33bb460
+1	12059	1712865762630076954	/home/yifan/mamba_prune/causal-conv1d/build/temp.linux-x86_64-cpython-39/csrc/causal_conv1d_fwd.o	cbcceefec66c3a28
+0	19958	1712865770537997146	/home/yifan/mamba_prune/causal-conv1d/build/temp.linux-x86_64-cpython-39/csrc/causal_conv1d.o	ecaaedf1a91ced07
+0	35702	1712865786245838569	/home/yifan/mamba_prune/causal-conv1d/build/temp.linux-x86_64-cpython-39/csrc/causal_conv1d_bwd.o	734bdfe0c218daf8
