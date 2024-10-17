@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/9bde08a9eb1242baae367fd8b7aff494/artifacts
+end_time: 1722914580672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bde08a9eb1242baae367fd8b7aff494
+run_name: loud-steed-188
+run_uuid: 9bde08a9eb1242baae367fd8b7aff494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722914529331
+status: 3
+tags: []
+user_id: yifan

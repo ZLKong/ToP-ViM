@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/5ed8f992b74f43adb395ae79e0a40f78/artifacts
+end_time: 1712944546482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ed8f992b74f43adb395ae79e0a40f78
+run_name: grandiose-sow-744
+run_uuid: 5ed8f992b74f43adb395ae79e0a40f78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712944533391
+status: 3
+tags: []
+user_id: yifan

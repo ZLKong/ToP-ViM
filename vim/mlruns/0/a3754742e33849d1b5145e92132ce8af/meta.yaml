@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/a3754742e33849d1b5145e92132ce8af/artifacts
+end_time: 1717145968186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3754742e33849d1b5145e92132ce8af
+run_name: fearless-cub-141
+run_uuid: a3754742e33849d1b5145e92132ce8af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717145892959
+status: 3
+tags: []
+user_id: yifan

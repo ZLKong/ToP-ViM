@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/efd3f5c6f4a346ba919cbffd1d0a6cca/artifacts
+end_time: 1712869709388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efd3f5c6f4a346ba919cbffd1d0a6cca
+run_name: resilient-horse-171
+run_uuid: efd3f5c6f4a346ba919cbffd1d0a6cca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712869598281
+status: 3
+tags: []
+user_id: yifan

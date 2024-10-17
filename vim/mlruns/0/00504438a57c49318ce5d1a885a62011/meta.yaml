@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/00504438a57c49318ce5d1a885a62011/artifacts
+end_time: 1722983183441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00504438a57c49318ce5d1a885a62011
+run_name: clumsy-koi-283
+run_uuid: 00504438a57c49318ce5d1a885a62011
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722983134655
+status: 3
+tags: []
+user_id: yifan

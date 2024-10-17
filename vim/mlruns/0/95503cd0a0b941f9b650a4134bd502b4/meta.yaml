@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/95503cd0a0b941f9b650a4134bd502b4/artifacts
+end_time: 1712870476599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95503cd0a0b941f9b650a4134bd502b4
+run_name: thundering-worm-561
+run_uuid: 95503cd0a0b941f9b650a4134bd502b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712870405180
+status: 3
+tags: []
+user_id: yifan

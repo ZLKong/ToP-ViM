@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/cce02eb2065e47c4bf0a8ed49365fac1/artifacts
+end_time: 1712949680899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cce02eb2065e47c4bf0a8ed49365fac1
+run_name: amazing-mare-974
+run_uuid: cce02eb2065e47c4bf0a8ed49365fac1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712949668101
+status: 3
+tags: []
+user_id: yifan

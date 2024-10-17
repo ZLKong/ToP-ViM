@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/1292305a041b4a47b653e8903dc44b8b/artifacts
+end_time: 1714545895960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1292305a041b4a47b653e8903dc44b8b
+run_name: silent-trout-762
+run_uuid: 1292305a041b4a47b653e8903dc44b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714545787612
+status: 3
+tags: []
+user_id: yifan

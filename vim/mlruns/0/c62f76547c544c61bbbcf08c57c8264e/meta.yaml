@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/c62f76547c544c61bbbcf08c57c8264e/artifacts
+end_time: 1714695738051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c62f76547c544c61bbbcf08c57c8264e
+run_name: overjoyed-yak-265
+run_uuid: c62f76547c544c61bbbcf08c57c8264e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714695622745
+status: 3
+tags: []
+user_id: yifan

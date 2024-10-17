@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/e9337c6b2c064900b4cf6de792bddddb/artifacts
+end_time: 1714694570229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9337c6b2c064900b4cf6de792bddddb
+run_name: youthful-snake-759
+run_uuid: e9337c6b2c064900b4cf6de792bddddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714694460712
+status: 3
+tags: []
+user_id: yifan

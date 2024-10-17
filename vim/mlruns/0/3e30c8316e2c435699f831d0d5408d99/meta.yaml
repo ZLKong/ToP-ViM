@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/3e30c8316e2c435699f831d0d5408d99/artifacts
+end_time: 1708317059175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e30c8316e2c435699f831d0d5408d99
+run_name: clumsy-doe-873
+run_uuid: 3e30c8316e2c435699f831d0d5408d99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708317048821
+status: 3
+tags: []
+user_id: zlkong

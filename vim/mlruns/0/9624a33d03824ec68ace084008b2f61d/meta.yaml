@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/9624a33d03824ec68ace084008b2f61d/artifacts
+end_time: 1712970812237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9624a33d03824ec68ace084008b2f61d
+run_name: sedate-bee-94
+run_uuid: 9624a33d03824ec68ace084008b2f61d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712970749026
+status: 3
+tags: []
+user_id: yifan

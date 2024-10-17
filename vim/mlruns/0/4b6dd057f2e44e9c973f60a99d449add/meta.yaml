@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/4b6dd057f2e44e9c973f60a99d449add/artifacts
+end_time: 1712969831480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b6dd057f2e44e9c973f60a99d449add
+run_name: enchanting-crane-463
+run_uuid: 4b6dd057f2e44e9c973f60a99d449add
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712969822120
+status: 3
+tags: []
+user_id: yifan

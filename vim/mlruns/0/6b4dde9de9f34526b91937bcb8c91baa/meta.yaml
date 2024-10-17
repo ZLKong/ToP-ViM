@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/6b4dde9de9f34526b91937bcb8c91baa/artifacts
+end_time: 1712867296419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b4dde9de9f34526b91937bcb8c91baa
+run_name: bald-seal-392
+run_uuid: 6b4dde9de9f34526b91937bcb8c91baa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712867293681
+status: 3
+tags: []
+user_id: yifan

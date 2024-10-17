@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/358c596116f34312ba997638a22d6d14/artifacts
+end_time: 1708286580757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 358c596116f34312ba997638a22d6d14
+run_name: rumbling-hen-46
+run_uuid: 358c596116f34312ba997638a22d6d14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708286574616
+status: 3
+tags: []
+user_id: zlkong

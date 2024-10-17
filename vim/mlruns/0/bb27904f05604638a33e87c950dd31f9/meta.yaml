@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/bb27904f05604638a33e87c950dd31f9/artifacts
+end_time: 1722914902102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb27904f05604638a33e87c950dd31f9
+run_name: casual-crow-886
+run_uuid: bb27904f05604638a33e87c950dd31f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722914879089
+status: 3
+tags: []
+user_id: yifan

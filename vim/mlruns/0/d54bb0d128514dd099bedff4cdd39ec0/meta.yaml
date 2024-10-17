@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/d54bb0d128514dd099bedff4cdd39ec0/artifacts
+end_time: 1708299920928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d54bb0d128514dd099bedff4cdd39ec0
+run_name: wistful-deer-530
+run_uuid: d54bb0d128514dd099bedff4cdd39ec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708299913827
+status: 3
+tags: []
+user_id: zlkong

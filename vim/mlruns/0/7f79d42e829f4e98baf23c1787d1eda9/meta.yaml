@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/7f79d42e829f4e98baf23c1787d1eda9/artifacts
+end_time: 1713326631624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f79d42e829f4e98baf23c1787d1eda9
+run_name: gifted-vole-144
+run_uuid: 7f79d42e829f4e98baf23c1787d1eda9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713326519121
+status: 3
+tags: []
+user_id: yifan

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/e663463c71804c2991fc5f82582778d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e663463c71804c2991fc5f82582778d7
+run_name: start_5_gap_10_ratio_0.7_old_vim_small_patch16_224_bimambav2_final_pool_mean_abs_pos_embed_with_midclstok_div2
+run_uuid: e663463c71804c2991fc5f82582778d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717145503858
+status: 1
+tags: []
+user_id: yifan

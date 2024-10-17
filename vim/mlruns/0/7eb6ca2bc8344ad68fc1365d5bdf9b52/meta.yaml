@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/7eb6ca2bc8344ad68fc1365d5bdf9b52/artifacts
+end_time: 1722908416609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7eb6ca2bc8344ad68fc1365d5bdf9b52
+run_name: upset-snake-968
+run_uuid: 7eb6ca2bc8344ad68fc1365d5bdf9b52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722908282376
+status: 3
+tags: []
+user_id: yifan

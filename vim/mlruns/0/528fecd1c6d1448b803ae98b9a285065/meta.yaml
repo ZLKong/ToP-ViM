@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/528fecd1c6d1448b803ae98b9a285065/artifacts
+end_time: 1716349541453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 528fecd1c6d1448b803ae98b9a285065
+run_name: gentle-slug-364
+run_uuid: 528fecd1c6d1448b803ae98b9a285065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716349479329
+status: 3
+tags: []
+user_id: yifan

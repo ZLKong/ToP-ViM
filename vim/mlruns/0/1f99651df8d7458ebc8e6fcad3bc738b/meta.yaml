@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/1f99651df8d7458ebc8e6fcad3bc738b/artifacts
+end_time: 1708531484955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f99651df8d7458ebc8e6fcad3bc738b
+run_name: crawling-stork-107
+run_uuid: 1f99651df8d7458ebc8e6fcad3bc738b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708531446260
+status: 3
+tags: []
+user_id: zlkong

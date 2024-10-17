@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/ef94503df6e243abb5820fd5757ee760/artifacts
+end_time: 1712970598241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef94503df6e243abb5820fd5757ee760
+run_name: sedate-robin-958
+run_uuid: ef94503df6e243abb5820fd5757ee760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712970590708
+status: 3
+tags: []
+user_id: yifan

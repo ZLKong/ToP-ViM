@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/e85438e2fd9e43af88cb61e700e591c8/artifacts
+end_time: 1712966280979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e85438e2fd9e43af88cb61e700e591c8
+run_name: stylish-tern-846
+run_uuid: e85438e2fd9e43af88cb61e700e591c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712966254425
+status: 3
+tags: []
+user_id: yifan

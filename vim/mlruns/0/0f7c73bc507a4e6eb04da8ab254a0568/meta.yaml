@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/0f7c73bc507a4e6eb04da8ab254a0568/artifacts
+end_time: 1722914820709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f7c73bc507a4e6eb04da8ab254a0568
+run_name: able-shark-938
+run_uuid: 0f7c73bc507a4e6eb04da8ab254a0568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722914808352
+status: 3
+tags: []
+user_id: yifan

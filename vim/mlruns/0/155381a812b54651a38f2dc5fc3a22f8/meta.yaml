@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/155381a812b54651a38f2dc5fc3a22f8/artifacts
+end_time: 1708287630012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 155381a812b54651a38f2dc5fc3a22f8
+run_name: persistent-midge-861
+run_uuid: 155381a812b54651a38f2dc5fc3a22f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708287623948
+status: 3
+tags: []
+user_id: zlkong

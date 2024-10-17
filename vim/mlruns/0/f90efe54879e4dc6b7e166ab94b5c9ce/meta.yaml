@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/f90efe54879e4dc6b7e166ab94b5c9ce/artifacts
+end_time: 1708319123288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f90efe54879e4dc6b7e166ab94b5c9ce
+run_name: beautiful-snipe-485
+run_uuid: f90efe54879e4dc6b7e166ab94b5c9ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708319057820
+status: 3
+tags: []
+user_id: zlkong

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/19724c941b514977bef22708ec99492a/artifacts
+end_time: 1708489575985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19724c941b514977bef22708ec99492a
+run_name: nervous-gull-584
+run_uuid: 19724c941b514977bef22708ec99492a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708487406867
+status: 3
+tags: []
+user_id: zlkong

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/bb32c33aa68d45febfc74e9b0fad1c85/artifacts
+end_time: 1717141847035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb32c33aa68d45febfc74e9b0fad1c85
+run_name: exultant-ray-310
+run_uuid: bb32c33aa68d45febfc74e9b0fad1c85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717141834977
+status: 3
+tags: []
+user_id: yifan

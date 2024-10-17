@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/0c7320193e4049329a9abb30bac96eeb/artifacts
+end_time: 1717143452202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c7320193e4049329a9abb30bac96eeb
+run_name: spiffy-auk-623
+run_uuid: 0c7320193e4049329a9abb30bac96eeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717143375491
+status: 3
+tags: []
+user_id: yifan

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/9034628f23fd4ba3a505e198c03b6df1/artifacts
+end_time: 1708316683044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9034628f23fd4ba3a505e198c03b6df1
+run_name: serious-cat-716
+run_uuid: 9034628f23fd4ba3a505e198c03b6df1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708316681946
+status: 3
+tags: []
+user_id: zlkong

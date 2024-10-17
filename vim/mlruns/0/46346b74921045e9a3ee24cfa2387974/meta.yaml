@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/46346b74921045e9a3ee24cfa2387974/artifacts
+end_time: 1708536515437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46346b74921045e9a3ee24cfa2387974
+run_name: illustrious-kite-778
+run_uuid: 46346b74921045e9a3ee24cfa2387974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708536508294
+status: 3
+tags: []
+user_id: zlkong

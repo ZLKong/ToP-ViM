@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/6650a3157a304bd48b6dbcec43332922/artifacts
+end_time: 1712970517554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6650a3157a304bd48b6dbcec43332922
+run_name: painted-squid-429
+run_uuid: 6650a3157a304bd48b6dbcec43332922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712970449897
+status: 3
+tags: []
+user_id: yifan

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/67880cb1d16d4559b0b751fdfb8da95f/artifacts
+end_time: 1722914001467
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67880cb1d16d4559b0b751fdfb8da95f
+run_name: burly-deer-539
+run_uuid: 67880cb1d16d4559b0b751fdfb8da95f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722913988096
+status: 3
+tags: []
+user_id: yifan

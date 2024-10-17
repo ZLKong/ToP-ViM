@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/598cfbe094c74a04bc585dfbde9ec216/artifacts
+end_time: 1712970053812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 598cfbe094c74a04bc585dfbde9ec216
+run_name: classy-gull-325
+run_uuid: 598cfbe094c74a04bc585dfbde9ec216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712969994710
+status: 3
+tags: []
+user_id: yifan

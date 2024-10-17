@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/29e1f2e08e67437ea4c8f733a1e193fa/artifacts
+end_time: 1712971250786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29e1f2e08e67437ea4c8f733a1e193fa
+run_name: bustling-donkey-859
+run_uuid: 29e1f2e08e67437ea4c8f733a1e193fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712971243982
+status: 3
+tags: []
+user_id: yifan

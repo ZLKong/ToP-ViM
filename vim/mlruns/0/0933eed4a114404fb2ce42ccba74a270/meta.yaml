@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/0933eed4a114404fb2ce42ccba74a270/artifacts
+end_time: 1713665396287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0933eed4a114404fb2ce42ccba74a270
+run_name: bittersweet-cat-798
+run_uuid: 0933eed4a114404fb2ce42ccba74a270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713665337228
+status: 3
+tags: []
+user_id: yifan

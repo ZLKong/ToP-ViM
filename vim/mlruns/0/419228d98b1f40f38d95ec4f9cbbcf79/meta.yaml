@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/419228d98b1f40f38d95ec4f9cbbcf79/artifacts
+end_time: 1712944907257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 419228d98b1f40f38d95ec4f9cbbcf79
+run_name: glamorous-donkey-871
+run_uuid: 419228d98b1f40f38d95ec4f9cbbcf79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712944895919
+status: 3
+tags: []
+user_id: yifan

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/aa12bf154a4a47b2ba08c4c1fe28f212/artifacts
+end_time: 1712969787013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa12bf154a4a47b2ba08c4c1fe28f212
+run_name: caring-crow-437
+run_uuid: aa12bf154a4a47b2ba08c4c1fe28f212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712969779566
+status: 3
+tags: []
+user_id: yifan

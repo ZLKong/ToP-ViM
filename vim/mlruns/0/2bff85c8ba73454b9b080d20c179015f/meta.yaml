@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/2bff85c8ba73454b9b080d20c179015f/artifacts
+end_time: 1722908268844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bff85c8ba73454b9b080d20c179015f
+run_name: persistent-sloth-780
+run_uuid: 2bff85c8ba73454b9b080d20c179015f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722908211926
+status: 3
+tags: []
+user_id: yifan

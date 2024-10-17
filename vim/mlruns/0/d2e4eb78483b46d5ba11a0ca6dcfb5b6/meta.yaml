@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/d2e4eb78483b46d5ba11a0ca6dcfb5b6/artifacts
+end_time: 1713052239576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2e4eb78483b46d5ba11a0ca6dcfb5b6
+run_name: likeable-croc-368
+run_uuid: d2e4eb78483b46d5ba11a0ca6dcfb5b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713052226241
+status: 3
+tags: []
+user_id: yifan

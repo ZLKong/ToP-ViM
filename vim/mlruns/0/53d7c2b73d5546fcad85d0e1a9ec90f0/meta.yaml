@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/53d7c2b73d5546fcad85d0e1a9ec90f0/artifacts
+end_time: 1717143966115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53d7c2b73d5546fcad85d0e1a9ec90f0
+run_name: monumental-shark-949
+run_uuid: 53d7c2b73d5546fcad85d0e1a9ec90f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717143889540
+status: 3
+tags: []
+user_id: yifan

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/32665a574de948858dfa216c0dc20611/artifacts
+end_time: 1714545704635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32665a574de948858dfa216c0dc20611
+run_name: rare-ox-356
+run_uuid: 32665a574de948858dfa216c0dc20611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714545698048
+status: 3
+tags: []
+user_id: yifan

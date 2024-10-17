@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/5eae516cc80f49c2a08b1baee28596fe/artifacts
+end_time: 1708286821883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5eae516cc80f49c2a08b1baee28596fe
+run_name: hilarious-smelt-472
+run_uuid: 5eae516cc80f49c2a08b1baee28596fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708286811042
+status: 3
+tags: []
+user_id: zlkong

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/f673886da3ee4fc3968cefe17345a52a/artifacts
+end_time: 1714694186498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f673886da3ee4fc3968cefe17345a52a
+run_name: selective-lynx-453
+run_uuid: f673886da3ee4fc3968cefe17345a52a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714694076662
+status: 3
+tags: []
+user_id: yifan

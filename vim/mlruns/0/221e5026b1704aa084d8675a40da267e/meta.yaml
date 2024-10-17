@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/221e5026b1704aa084d8675a40da267e/artifacts
+end_time: 1708536459811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 221e5026b1704aa084d8675a40da267e
+run_name: abundant-wasp-223
+run_uuid: 221e5026b1704aa084d8675a40da267e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708536450618
+status: 3
+tags: []
+user_id: zlkong

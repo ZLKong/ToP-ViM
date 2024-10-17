@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/f4b4ae8976414d069544619b88f633b3/artifacts
+end_time: 1714546575021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4b4ae8976414d069544619b88f633b3
+run_name: rebellious-seal-269
+run_uuid: f4b4ae8976414d069544619b88f633b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714546466885
+status: 3
+tags: []
+user_id: yifan

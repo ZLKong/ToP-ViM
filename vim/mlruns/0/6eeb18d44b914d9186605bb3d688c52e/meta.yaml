@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/6eeb18d44b914d9186605bb3d688c52e/artifacts
+end_time: 1712970832944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6eeb18d44b914d9186605bb3d688c52e
+run_name: nosy-goat-543
+run_uuid: 6eeb18d44b914d9186605bb3d688c52e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712970825377
+status: 3
+tags: []
+user_id: yifan

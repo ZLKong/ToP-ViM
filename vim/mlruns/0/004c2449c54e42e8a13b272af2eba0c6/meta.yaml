@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/004c2449c54e42e8a13b272af2eba0c6/artifacts
+end_time: 1713325792873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 004c2449c54e42e8a13b272af2eba0c6
+run_name: upset-mare-181
+run_uuid: 004c2449c54e42e8a13b272af2eba0c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713325778875
+status: 3
+tags: []
+user_id: yifan

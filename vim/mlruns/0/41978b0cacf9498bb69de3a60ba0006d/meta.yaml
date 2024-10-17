@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/41978b0cacf9498bb69de3a60ba0006d/artifacts
+end_time: 1708464031500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41978b0cacf9498bb69de3a60ba0006d
+run_name: righteous-bear-87
+run_uuid: 41978b0cacf9498bb69de3a60ba0006d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708319242528
+status: 3
+tags: []
+user_id: zlkong

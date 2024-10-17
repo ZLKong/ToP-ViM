@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/e99789bb67d1454ab933f900bce3142c/artifacts
+end_time: 1717150293382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e99789bb67d1454ab933f900bce3142c
+run_name: luminous-ram-206
+run_uuid: e99789bb67d1454ab933f900bce3142c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717150271471
+status: 3
+tags: []
+user_id: yifan

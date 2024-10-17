@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/3d0a5bfd5be34215805c49c5bbaf9f3d/artifacts
+end_time: 1712867055963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d0a5bfd5be34215805c49c5bbaf9f3d
+run_name: efficient-rook-530
+run_uuid: 3d0a5bfd5be34215805c49c5bbaf9f3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712867053212
+status: 3
+tags: []
+user_id: yifan

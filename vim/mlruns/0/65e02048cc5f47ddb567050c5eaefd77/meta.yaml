@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/65e02048cc5f47ddb567050c5eaefd77/artifacts
+end_time: 1712941057649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65e02048cc5f47ddb567050c5eaefd77
+run_name: ambitious-fly-661
+run_uuid: 65e02048cc5f47ddb567050c5eaefd77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712941040018
+status: 3
+tags: []
+user_id: yifan

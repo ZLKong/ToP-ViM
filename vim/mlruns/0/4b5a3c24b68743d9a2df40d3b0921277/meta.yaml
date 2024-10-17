@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/4b5a3c24b68743d9a2df40d3b0921277/artifacts
+end_time: 1712869529058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b5a3c24b68743d9a2df40d3b0921277
+run_name: worried-steed-441
+run_uuid: 4b5a3c24b68743d9a2df40d3b0921277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712869522822
+status: 3
+tags: []
+user_id: yifan

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/8eee21205eba4f1f9261da6f54f4b9fa/artifacts
+end_time: 1717141210699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8eee21205eba4f1f9261da6f54f4b9fa
+run_name: fortunate-grouse-621
+run_uuid: 8eee21205eba4f1f9261da6f54f4b9fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717141125364
+status: 3
+tags: []
+user_id: yifan

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/1e4f87dca25d4c2d86749f145796e512/artifacts
+end_time: 1713085651895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e4f87dca25d4c2d86749f145796e512
+run_name: loud-squirrel-549
+run_uuid: 1e4f87dca25d4c2d86749f145796e512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713085606342
+status: 3
+tags: []
+user_id: yifan

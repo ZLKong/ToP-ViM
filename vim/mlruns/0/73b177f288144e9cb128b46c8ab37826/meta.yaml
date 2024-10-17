@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/73b177f288144e9cb128b46c8ab37826/artifacts
+end_time: 1717148509553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73b177f288144e9cb128b46c8ab37826
+run_name: kindly-mink-684
+run_uuid: 73b177f288144e9cb128b46c8ab37826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717148396425
+status: 3
+tags: []
+user_id: yifan

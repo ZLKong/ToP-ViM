@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/3afd2718f5204d8c8b4dcca92e10f976/artifacts
+end_time: 1717141907286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3afd2718f5204d8c8b4dcca92e10f976
+run_name: masked-foal-606
+run_uuid: 3afd2718f5204d8c8b4dcca92e10f976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717141879315
+status: 3
+tags: []
+user_id: yifan

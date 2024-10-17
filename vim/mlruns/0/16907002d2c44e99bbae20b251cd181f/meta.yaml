@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/16907002d2c44e99bbae20b251cd181f/artifacts
+end_time: 1712870662379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16907002d2c44e99bbae20b251cd181f
+run_name: painted-toad-883
+run_uuid: 16907002d2c44e99bbae20b251cd181f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712870650521
+status: 3
+tags: []
+user_id: yifan

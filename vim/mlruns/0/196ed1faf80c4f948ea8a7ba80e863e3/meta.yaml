@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/196ed1faf80c4f948ea8a7ba80e863e3/artifacts
+end_time: 1712870514582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 196ed1faf80c4f948ea8a7ba80e863e3
+run_name: efficient-mare-803
+run_uuid: 196ed1faf80c4f948ea8a7ba80e863e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712870499756
+status: 3
+tags: []
+user_id: yifan

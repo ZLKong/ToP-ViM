@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/62b6f58b2ac44fc286951562fc7871ab/artifacts
+end_time: 1714546259610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62b6f58b2ac44fc286951562fc7871ab
+run_name: zealous-ape-217
+run_uuid: 62b6f58b2ac44fc286951562fc7871ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714546147152
+status: 3
+tags: []
+user_id: yifan

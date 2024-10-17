@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/4fc19774f2b548efbdeff2a53408882e/artifacts
+end_time: 1708316534835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fc19774f2b548efbdeff2a53408882e
+run_name: melodic-pig-176
+run_uuid: 4fc19774f2b548efbdeff2a53408882e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708316486456
+status: 3
+tags: []
+user_id: zlkong

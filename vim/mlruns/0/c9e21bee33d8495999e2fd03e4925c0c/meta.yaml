@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/c9e21bee33d8495999e2fd03e4925c0c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9e21bee33d8495999e2fd03e4925c0c
+run_name: lyrical-steed-198
+run_uuid: c9e21bee33d8495999e2fd03e4925c0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722983107644
+status: 1
+tags: []
+user_id: yifan

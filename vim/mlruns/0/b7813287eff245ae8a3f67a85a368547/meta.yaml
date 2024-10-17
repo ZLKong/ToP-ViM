@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/b7813287eff245ae8a3f67a85a368547/artifacts
+end_time: 1708298354226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7813287eff245ae8a3f67a85a368547
+run_name: grandiose-wolf-937
+run_uuid: b7813287eff245ae8a3f67a85a368547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708298347772
+status: 3
+tags: []
+user_id: zlkong

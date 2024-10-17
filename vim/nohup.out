@@ -1,0 +1,63 @@
+/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torch/distributed/launch.py:181: FutureWarning: The module torch.distributed.launch is deprecated
+and will be removed in future. Use torchrun.
+Note that --use-env is set by default in torchrun.
+If your script expects `--local-rank` argument to be set, please
+change it to read from `os.environ['LOCAL_RANK']` instead. See 
+https://pytorch.org/docs/stable/distributed.html#launch-utility for 
+further instructions
+
+  warnings.warn(
+/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torch/distributed/launch.py:181: FutureWarning: The module torch.distributed.launch is deprecated
+and will be removed in future. Use torchrun.
+Note that --use-env is set by default in torchrun.
+If your script expects `--local-rank` argument to be set, please
+change it to read from `os.environ['LOCAL_RANK']` instead. See 
+https://pytorch.org/docs/stable/distributed.html#launch-utility for 
+further instructions
+
+  warnings.warn(
+Traceback (most recent call last):
+  File "/home/yifan/mamba_prune/vim/main.py", line 547, in <module>
+    main(args)
+  File "/home/yifan/mamba_prune/vim/main.py", line 247, in main
+    dataset_train, args.nb_classes = build_dataset(is_train=True, args=args)
+  File "/home/yifan/mamba_prune/vim/datasets.py", line 64, in build_dataset
+[2024-05-02 19:45:11,325] torch.distributed.elastic.agent.server.api: [WARNING] Received Signals.SIGINT death signal, shutting down workers
+    dataset = datasets.ImageFolder(root, transform=transform)
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torchvision/datasets/folder.py", line 309, in __init__
+[2024-05-02 19:45:11,326] torch.distributed.elastic.multiprocessing.api: [WARNING] Sending process 830418 closing signal SIGINT
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torchvision/datasets/folder.py", line 145, in __init__
+    samples = self.make_dataset(self.root, class_to_idx, extensions, is_valid_file)
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torchvision/datasets/folder.py", line 189, in make_dataset
+    return make_dataset(directory, class_to_idx, extensions=extensions, is_valid_file=is_valid_file)
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torchvision/datasets/folder.py", line 90, in make_dataset
+    if is_valid_file(path):
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torchvision/datasets/folder.py", line 75, in is_valid_file
+    def is_valid_file(x: str) -> bool:
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torch/distributed/launch.py", line 196, in <module>
+    main()
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torch/distributed/launch.py", line 192, in main
+    launch(args)
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torch/distributed/launch.py", line 177, in launch
+    run(args)
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torch/distributed/run.py", line 797, in run
+    elastic_launch(
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 134, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 255, in launch_agent
+    result = agent.run()
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torch/distributed/elastic/metrics/api.py", line 124, in wrapper
+    result = f(*args, **kwargs)
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torch/distributed/elastic/agent/server/api.py", line 736, in run
+    result = self._invoke_run(role)
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torch/distributed/elastic/agent/server/api.py", line 877, in _invoke_run
+    time.sleep(monitor_interval)
+  File "/home/yifan/anaconda3/envs/mamba/lib/python3.10/site-packages/torch/distributed/elastic/multiprocessing/api.py", line 62, in _terminate_process_handler
+    raise SignalException(f"Process {os.getpid()} got signal: {sigval}", sigval=sigval)
+torch.distributed.elastic.multiprocessing.api.SignalException: Process 830340 got signal: 2

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/74068634ed9a48759d8cd75101362e6b/artifacts
+end_time: 1717142150795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74068634ed9a48759d8cd75101362e6b
+run_name: crawling-pig-380
+run_uuid: 74068634ed9a48759d8cd75101362e6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717142073832
+status: 3
+tags: []
+user_id: yifan

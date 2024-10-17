@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/55d92fdb1e114c099aa8ee89a062b80e/artifacts
+end_time: 1722914872286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55d92fdb1e114c099aa8ee89a062b80e
+run_name: magnificent-frog-566
+run_uuid: 55d92fdb1e114c099aa8ee89a062b80e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722914837835
+status: 3
+tags: []
+user_id: yifan

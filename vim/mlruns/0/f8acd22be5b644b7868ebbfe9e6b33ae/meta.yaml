@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/f8acd22be5b644b7868ebbfe9e6b33ae/artifacts
+end_time: 1708228945004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8acd22be5b644b7868ebbfe9e6b33ae
+run_name: marvelous-dog-6
+run_uuid: f8acd22be5b644b7868ebbfe9e6b33ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708228927124
+status: 3
+tags: []
+user_id: zlkong

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/0722e9b193da4d5e88af126a79db5491/artifacts
+end_time: 1708288059542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0722e9b193da4d5e88af126a79db5491
+run_name: casual-hound-704
+run_uuid: 0722e9b193da4d5e88af126a79db5491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708287997168
+status: 3
+tags: []
+user_id: zlkong

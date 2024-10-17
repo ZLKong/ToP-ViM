@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/e34143a735234ff681e1298bd80da6f6/artifacts
+end_time: 1708532142130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e34143a735234ff681e1298bd80da6f6
+run_name: classy-robin-668
+run_uuid: e34143a735234ff681e1298bd80da6f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708532086050
+status: 3
+tags: []
+user_id: zlkong

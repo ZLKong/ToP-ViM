@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/6384e82da0eb498faefdf642b883394d/artifacts
+end_time: 1708298804051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6384e82da0eb498faefdf642b883394d
+run_name: rumbling-stoat-589
+run_uuid: 6384e82da0eb498faefdf642b883394d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708298797897
+status: 3
+tags: []
+user_id: zlkong

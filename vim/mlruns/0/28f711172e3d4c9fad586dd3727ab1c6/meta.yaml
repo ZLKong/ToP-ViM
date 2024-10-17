@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/28f711172e3d4c9fad586dd3727ab1c6/artifacts
+end_time: 1713325463304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28f711172e3d4c9fad586dd3727ab1c6
+run_name: bright-fly-561
+run_uuid: 28f711172e3d4c9fad586dd3727ab1c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713325348811
+status: 3
+tags: []
+user_id: yifan

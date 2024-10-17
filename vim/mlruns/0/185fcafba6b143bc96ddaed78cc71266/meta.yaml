@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/185fcafba6b143bc96ddaed78cc71266/artifacts
+end_time: 1708316230096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 185fcafba6b143bc96ddaed78cc71266
+run_name: righteous-mink-480
+run_uuid: 185fcafba6b143bc96ddaed78cc71266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708316219671
+status: 3
+tags: []
+user_id: zlkong

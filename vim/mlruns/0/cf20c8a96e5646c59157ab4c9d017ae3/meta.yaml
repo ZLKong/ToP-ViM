@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/cf20c8a96e5646c59157ab4c9d017ae3/artifacts
+end_time: 1717141722360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf20c8a96e5646c59157ab4c9d017ae3
+run_name: bouncy-sponge-624
+run_uuid: cf20c8a96e5646c59157ab4c9d017ae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717141710912
+status: 3
+tags: []
+user_id: yifan

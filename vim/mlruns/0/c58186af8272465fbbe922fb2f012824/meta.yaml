@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/c58186af8272465fbbe922fb2f012824/artifacts
+end_time: 1712970702748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c58186af8272465fbbe922fb2f012824
+run_name: receptive-kit-882
+run_uuid: c58186af8272465fbbe922fb2f012824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712970639861
+status: 3
+tags: []
+user_id: yifan

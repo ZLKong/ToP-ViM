@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zlkong/Vim/vim/mlruns/0/25f6ad06f39f4b03893438c9ab5eddaa/artifacts
+end_time: 1712969930739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25f6ad06f39f4b03893438c9ab5eddaa
+run_name: placid-asp-169
+run_uuid: 25f6ad06f39f4b03893438c9ab5eddaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712969921621
+status: 3
+tags: []
+user_id: yifan
